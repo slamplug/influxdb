@@ -18,6 +18,7 @@
 - [#3558](https://github.com/influxdata/influxdb/issues/3558): Support field math inside a WHERE clause.
 - [#6429](https://github.com/influxdata/influxdb/issues/6429): Log slow queries if they pass a configurable threshold.
 - [#4675](https://github.com/influxdata/influxdb/issues/4675): Allow derivative() function to be used with ORDER BY desc.
+- [#6290](https://github.com/influxdata/influxdb/issues/6290): Add POST /query endpoint and warning messages for using GET with write operations.
 
 ### Bugfixes
 
