@@ -42,6 +42,7 @@
 - [#6109](https://github.com/influxdata/influxdb/issues/6109): Cache maximum memory size exceeded on startup
 - [#6427](https://github.com/influxdata/influxdb/pull/6427): Fix setting uint config options via env vars
 - [#3883](https://github.com/influxdata/influxdb/issues/3883): Improve query sanitization to prevent a password leak in the logs.
+- [#4630](https://github.com/influxdata/influxdb/issues/4630): Prioritize querying tags over fields when they conflict.
 
 ## v0.12.1 [2016-04-08]
 
